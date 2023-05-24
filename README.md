@@ -1,4 +1,3 @@
-# laravel
 # Laravel Xampp Setup (Windows & Mac)
 
 ## Install Xampp
